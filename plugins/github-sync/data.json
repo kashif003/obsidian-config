@@ -1,0 +1,9 @@
+{
+  "remoteURL": "",
+  "gitLocation": "",
+  "syncinterval": 15,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
