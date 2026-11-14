@@ -2,7 +2,7 @@
 
 My Obsidian settings: themes, CSS snippets, hotkeys, and plugin settings.
 
-## Restore after a reset
+## How to install?
 1. Install Obsidian and open (or create) your vault folder once, then close Obsidian.
 2. Replace the vault's settings with this repo:
    ```bash
