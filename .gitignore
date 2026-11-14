@@ -3,6 +3,3 @@ workspace*.json
 plugins/remember-cursor-position/cursor-positions.json
 plugins/various-complements/histories.json
 *.bak-*
-# Plugin code (reinstall from Community Plugins)
-plugins/*/main.js
-plugins/*/styles.css
