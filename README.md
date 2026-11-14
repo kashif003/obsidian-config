@@ -13,8 +13,3 @@ My Obsidian settings: themes, CSS snippets, hotkeys, and plugin settings.
 3. Open Obsidian → Settings → Community plugins → click **Turn on community plugins** if asked.
 4. Restart Obsidian. Plugins, themes, hotkeys and settings are all back.
 
-To save changes later: `cd .obsidian && git add . && git commit -m "update" && git push`
-
-## Task setup (TaskNotes)
-- New tasks go to `Tasks/Open`, finished tasks move to `Tasks/Done` automatically.
-- `Alt+T` creates a new task.
